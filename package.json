@@ -25,7 +25,7 @@
     "material-design",
     "configurable"
   ],
-  "main": "lib",
+  "main": "modules",
   "types": "modules/index.d.ts",
   "scripts": {
     "prepare": "npm run build-npm",
